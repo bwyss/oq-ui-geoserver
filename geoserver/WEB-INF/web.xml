@@ -42,7 +42,11 @@
  
   <context-param>
     <param-name>GEONODE_BASE_URL</param-name>
+<<<<<<< HEAD
     <param-value>http://178.79.187.26/</param-value>
+=======
+    <param-value>http://109.74.205.29/</param-value>
+>>>>>>> 5f5f3021c5f3b754bf398eb1da68211551960608
   </context-param>
 
   <context-param>
