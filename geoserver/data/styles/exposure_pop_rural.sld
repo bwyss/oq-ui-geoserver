@@ -12,19 +12,12 @@ http://schemas.opengis.net/sld/1.0.0/StyledLayerDescriptor.xsd" version="1.0.0">
        <RasterSymbolizer>
          <ColorMap>
            <ColorMapEntry color="#FFFFFF" quantity="0" opacity="0"/>
-           <ColorMapEntry color="#f5f8f5" quantity="10" opacity=".7"/>
-           <ColorMapEntry color="#e8f0e8" quantity="25" opacity=".7"/>
-           <ColorMapEntry color="#d8e5d7" quantity="50" opacity=".7"/>
-           <ColorMapEntry color="#c7d9c5" quantity="100" opacity=".7"/>
-           <ColorMapEntry color="#b4ccb1" quantity="250" opacity=".7"/>
-           <ColorMapEntry color="#9fbf9c" quantity="500" opacity=".7"/>
-           <ColorMapEntry color="#a0bf9c" quantity="750" opacity=".7"/>
-           <ColorMapEntry color="#8bb187" quantity="1000" opacity=".7"/>
-           <ColorMapEntry color="#76a372" quantity="2500" opacity=".7"/>
-           <ColorMapEntry color="#62965d" quantity="5000" opacity=".7"/>
-           <ColorMapEntry color="#4d8847" quantity="7500" opacity=".7"/>
-           <ColorMapEntry color="#397a32" quantity="10000" opacity=".7"/>
-           <ColorMapEntry color="#095a01" quantity="17052" opacity=".7"/>
+           <ColorMapEntry color="#f1eacf" quantity="10" opacity=".5"/>
+           <ColorMapEntry color="#e3d39c" quantity="50" opacity=".5"/>
+           <ColorMapEntry color="#d5bd6c" quantity="100" opacity=".7"/>
+           <ColorMapEntry color="#cdb252" quantity="500" opacity=".7"/>
+           <ColorMapEntry color="#bf9b1f" quantity="1000" opacity=".7"/>
+           <ColorMapEntry color="#b68e01" quantity="5000" opacity=".7"/>
          </ColorMap>
        </RasterSymbolizer>
       </Rule>
