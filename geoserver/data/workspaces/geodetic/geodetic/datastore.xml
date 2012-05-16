@@ -25,6 +25,6 @@
     <entry key="Estimated extends">true</entry>
     <entry key="user">geonode</entry>
     <entry key="min connections">1</entry>
-  </connectionParameters>
+  <entry key="passwd">BisD312c</entry></connectionParameters>
   <__default>false</__default>
 </dataStore>
